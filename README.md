@@ -5,7 +5,7 @@ minetest 0.4.15 / 16
 ![Screenshot](Template.png)
 
 ## Supported Mods
-[basic_machines] https://github.com/ac-minetest/basic_machines
-[moreblocks]  https://github.com/minetest-mods/moreblocks
-[ethereal]  https://github.com/tenplus1/ethereal
-[moreores]  https://github.com/minetest-mods/moreores
+[basic_machines] https://github.com/ac-minetest/basic_machines .
+[moreblocks]  https://github.com/minetest-mods/moreblocks .
+[ethereal]  https://github.com/tenplus1/ethereal .
+[moreores]  https://github.com/minetest-mods/moreores .
