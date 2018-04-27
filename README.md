@@ -7,5 +7,5 @@ minetest 0.4.15 / 16
 ## Supported Mods
 ![basic_machines](https://github.com/ac-minetest/basic_machines)
 ![moreblocks] (https://github.com/minetest-mods/moreblocks)
-![ethereal] only dirt (https://github.com/tenplus1/ethereal)
-![moreores] without rails (https://github.com/minetest-mods/moreores)
+![ethereal] (https://github.com/tenplus1/ethereal)
+![moreores] (https://github.com/minetest-mods/moreores)
