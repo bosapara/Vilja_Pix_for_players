@@ -6,7 +6,10 @@ minetest 0.4.15 / 16
 ![Screenshot](https://image.ibb.co/n5iviT/Template.png)
 
 ## Supported Mods
-[basic_machines] https://github.com/ac-minetest/basic_machines .
-[basic_robot] https://github.com/ac-minetest/basic_machines .
-[moreblocks]  https://github.com/minetest-mods/moreblocks .
+[basic_machines] https://github.com/ac-minetest/basic_machines
+
+[basic_robot] https://github.com/ac-minetest/basic_machines
+
+[moreblocks]  https://github.com/minetest-mods/moreblocks
+
 [moreores]  https://github.com/minetest-mods/moreores .
